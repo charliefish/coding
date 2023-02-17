@@ -544,3 +544,6 @@ DOT-USD,Polkadot
 SHIB-USD,Shiba
 QNT-USD,Quant 
 HBAR-USD,Hedera
+DOW,dow
+NQ=f,nasdaq
+^GSPC,s&p500
